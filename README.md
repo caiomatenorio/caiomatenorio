@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Caio de Araújo 🌊</h1>
 
-> Hello, welcome to my GitHub profile. I'm akaii7, a student of Systems Development at the Porto Digital Technical School in Recife. I'm always trying to improve my codes, studying and learning more everyday!
+#### Hello, welcome to my GitHub profile. I'm akaii7, a student of Systems Development at the Porto Digital Technical School in Recife. I'm always trying to improve my codes, studying and learning more everyday!
 
 <h2 align="center">Skills</h2>
 
