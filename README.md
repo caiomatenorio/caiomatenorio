@@ -27,8 +27,6 @@ Hello, welcome to my GitHub profile. I'm Caio de Araújo, a student of Systems D
 - Email: caiotdearaujo@gmail.com
 - LinkedIn: [in/caiotdearaujo](https://linkedin.com/in/caiotdearaujo)
 
-> Feel free to say "hi" to me there!
-
 ##
 
 Thank you for visiting!
