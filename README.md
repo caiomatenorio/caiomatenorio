@@ -8,11 +8,10 @@ Hello, welcome to my GitHub profile. I'm akaii7, a student of Systems Developmen
 
 <div>
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" height="50" width="60">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" height="50" width="60">
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" height="50" width="60">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" height="50" width="60">
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" height="50" width="60">
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" height="50" width="60">
 </div>
-
+  
 ### Code Editor
 
 <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" align="center" height="50" width="60">
