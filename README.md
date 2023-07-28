@@ -20,7 +20,7 @@ Hello, welcome to my GitHub profile. I'm akaii7, a student of Systems Developmen
 <h2 align="center">Developer Roadmap</h2>
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=backend%2Cpython" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a49656ec22530247ed902e?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 <h2 align="center">Contact</h2>
@@ -34,4 +34,4 @@ Hello, welcome to my GitHub profile. I'm akaii7, a student of Systems Developmen
 
 Thank you for visiting!
 
-[![Follow on GitHub](https://img.shields.io/github/followers/akaii7?label=Follow&style=social)](https://github.com/akaii7)
+[![Follow on GitHub](https://img.shields.io/github/followers/caiotdearaujo?label=Follow&style=social)](https://github.com/caiotdearaujo)
