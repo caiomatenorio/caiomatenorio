@@ -14,6 +14,7 @@
 
 ### Other Knowledge
 ![C](https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-316192?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
