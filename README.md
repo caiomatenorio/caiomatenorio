@@ -23,6 +23,7 @@
 ![VSCode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Mint](https://img.shields.io/badge/linuxmint-4EA94B?style=for-the-badge&logo=linuxmint&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-ddd?style=for-the-badge&logo=figma&logoColor=black)&nbsp;
 
 ### Contact
 <div> 
