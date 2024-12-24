@@ -42,8 +42,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiotdearaujo)
 
 <div align="center">
-  <p align="center"><b>Roadmap Stats</b></p>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64a49656ec22530247ed902e?variant=dark&roadmaps=java%2Cjavascript%2Cpython%2Cbackend" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=java%2Cspring-boot%2Cfull-stack%2Cbackend" alt="roadmap.sh"/></a>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
