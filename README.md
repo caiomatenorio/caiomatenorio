@@ -1,9 +1,7 @@
 # What's up, I'm Caio 👋
-👨‍💻 Aspiring System Developer, learning about innovation and tech.<br/>
+👨‍💻 Aspiring Software Engineer, learning about innovation and tech.<br/>
 📚 Coursing System Development at Porto Digital State Technical School, Recife, Brazil.<br/>
 🌐 Currently learning about back-end development.<br/>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiotdearaujo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio de Araújo github stats" />
@@ -13,8 +11,8 @@
 ## Tech Stack
 
 ### Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=java&sort=)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=kotlin&sort=)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=java&sort=)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=typescript&sort=)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=html&sort=)
