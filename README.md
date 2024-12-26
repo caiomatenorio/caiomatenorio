@@ -22,7 +22,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=python&sort=)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=c&sort=)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=r&sort=)
 
 ### Frameworks and Platforms
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
