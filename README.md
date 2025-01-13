@@ -11,8 +11,8 @@
 ## Tech Stack
 
 ### Languages
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=kotlin&sort=)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=java&sort=)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=kotlin&sort=)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=typescript&sort=)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://github.com/caiotdearaujo?tab=repositories&q=&type=&language=html&sort=)
