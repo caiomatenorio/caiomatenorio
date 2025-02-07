@@ -43,7 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caiomatenorio)
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=java%2Cspring-boot%2Cfull-stack%2Cbackend" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Ctypescript" alt="roadmap.sh"/></a>
 </div>
 
 <div align="center">
