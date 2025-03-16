@@ -38,6 +38,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+---
+
 <div align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Ctypescript" alt="roadmap.sh"/></a>
 </div>
