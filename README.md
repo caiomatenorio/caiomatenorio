@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Ctypescript" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a49656ec22530247ed902e?variant=dark&roadmaps=backend%2Cjava%2Ctypescript%2Cspring-boot" alt="roadmap.sh"/></a>
 </div>
 
 <div align="center">
