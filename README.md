@@ -38,12 +38,3 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
-
----
-
-<div align="center">
-  <p><b>Visitors Count</b></p>  
-  <div>
-    <img src="https://profile-counter.glitch.me/{caiotdearaujo}/count.svg" />
-  </div> 
-</div>
